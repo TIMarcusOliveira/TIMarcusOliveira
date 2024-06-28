@@ -9,18 +9,17 @@
 <p>
   Hi 👋, I'm Anselmo! A passionate Data Science student from Brazil.
 
-  - 🌱 I’m currently studying Data Science <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 I’m currently studying in a technical high school
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+  - 🔭 I am looking for my first job opportunity. My dream is to one day work with backend.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 45 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning, PHP, React native. 
+  - 💬 I am 16 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning, PHP, React native. 
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
 
 <!-- Links -->
@@ -30,15 +29,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=profanselmoflorentino&show_icons=true&theme=gotham)
-
-<!-- Portfolio -->
-## Portfolio:
-- [Seaborn Data Visualization](https://github.com/)
-- [Exploratory Data Analysis](https://github.com/)
-- [Interactive Data Visualization](https://github.com/)
-- [Data Querying and Analysis](https://github.com/)
-- [Client Registry System](https://github.com/)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=TIMarcusOliveira&show_icons=true&theme=gotham)
 
 <!-- GIF -->
 <p align="left">
