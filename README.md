@@ -7,7 +7,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Anselmo! A passionate Data Science student from Brazil.
+  Hi 👋, I'm Marcus! A passionate Data Science student from Brazil.
 
   - 🌱 I’m currently studying in a technical high school
 
